@@ -1,4 +1,4 @@
-## BlackJack practice-Project
+## BlackJack practice bot
 #### This project is made because I like many different kinds of card games, and BlackJack is one of them. 
 
 ## How does the game work?
